@@ -8,8 +8,6 @@ import { AppComponent } from '../app.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    HeroesComponent
   ],
   imports: [
     CommonModule,
